@@ -45,7 +45,7 @@ const FAQ = () => {
         <>
           If you have any questions or need more information, feel free to email us at{" "}
           <a href="mailto:youthinnovatorhub@gmail.com" className="text-moonblossom font-bold">
-            youthinnovatorhub@gmail.com
+            youthinnovatorshub@gmail.com
           </a> or message us on{" "}
           <a
   href="https://wa.me/250791845268"
