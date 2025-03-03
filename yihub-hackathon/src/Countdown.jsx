@@ -31,11 +31,13 @@ const Countdown = ({ targetDate }) => {
   }, [targetDate]);
 
   return (
-    <div className="countdown-timer text-center py-6 px-4 bg-white/10 font-bold rounded-lg ">
-      <div className="text-yellow">
-        <p className="text-4xl">{timeLeft.days} Days {timeLeft.hours} Hours {timeLeft.minutes} Minutes {timeLeft.seconds} Seconds</p>
-      </div>
-    </div>
+    <div className="countdown-timer text-center py-6 px-4 bg-white/10 font-bold rounded-lg">
+  <div className="text-yellow">
+    <p className="text-2xl sm:text-3xl md:text-4xl">
+      {timeLeft.days} Days {timeLeft.hours} Hours {timeLeft.minutes} Minutes {timeLeft.seconds} Seconds
+    </p>
+  </div>
+</div>
   );
 };
 

@@ -75,9 +75,11 @@ function App() {
               </div>
             </div>
             <div className="flex flex-wrap justify-center gap-6">
-              <button className="bg-yellow text-gray-900 font-bold py-4 px-10 rounded-xl text-xl transition-all button-bounce shadow-lg hover:shadow-xl backdrop-blur-sm">
-                Register Now 🎉
-              </button>
+            <a href="https://lu.ma/0w4wdilb" target="_blank" rel="noopener noreferrer">
+  <button className="bg-yellow text-gray-900 font-bold py-4 px-10 rounded-xl text-xl transition-all button-bounce shadow-lg hover:shadow-xl backdrop-blur-sm">
+    Register Now 🎉
+  </button>
+</a>  
             
             </div>
           </div>
@@ -281,7 +283,7 @@ function App() {
           {/* Bottom Bar */}
           <div className="border-t border-white/10 py-8 text-center">
             <p className="text-gray-400">
-              © 2025 YIHub. All rights reserved.
+              © 2025 YIHub. All rights Reserved.
             </p>
           </div>
         </div>
