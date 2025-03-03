@@ -52,8 +52,7 @@ const FAQ = () => {
   target="_blank"
   rel="noopener noreferrer"
   className="text-moonblossom font-bold"
->
-  Contact us on WhatsApp
+> WhatsApp
 </a>
         </>
       )
